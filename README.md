@@ -2,6 +2,8 @@
 
 This repository contains the dataflow and scripts I used to process the COI metabarcode reads in the paper Porter and Hajibabaei, 2019 "What’s in a name?  Barcodes, mini-barcodes, metabarcodes".
 
+Infiles and scripts can be downloaded from https://github.com/terrimporter/PorterHajibabaei_DNAbarcodes/releases .
+
 ## Infiles
 
 Taxonomically assigned data were obtained for ESVs (LV2016_2.tar.gz) and for OTUs (LV2016_4.tar.gz) from the publication Porter et al., 2019 SciRep at https://github.com/terrimporter/PorterEtAl2019grid. 
