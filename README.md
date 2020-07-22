@@ -1,6 +1,6 @@
 # README
 
-This repository contains the dataflow and scripts I used to process the COI metabarcode reads in the paper Porter and Hajibabaei, 2019 "What’s in a name?  Barcodes, mini-barcodes, metabarcodes".
+This repository contains the dataflow and scripts I used to process the COI metabarcode reads in the paper Porter and Hajibabaei, 2020 "Putting COI Metabarcoding in Context: The Utility of Exact Sequence Variants (ESVs) in Biodiversity Analysis".
 
 Infiles and scripts can be downloaded from https://github.com/terrimporter/PorterHajibabaei_DNAbarcodes/releases .
 
@@ -42,4 +42,4 @@ Porter, T.M., Morris, D.M., Basiliko, N., Hajibabaei, M., Doucet, D., Bowman, S.
 
 I would like to acknowledge funding from the Canadian government from the Genomics Research and Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (EcoBiomics) project.
 
-Last updated: December 3, 2019
+Last updated: July 22, 2020
