@@ -1,8 +1,8 @@
 # README
 
-This repository contains the dataflow and scripts I used to process the COI metabarcode reads in the paper Porter and Hajibabaei, 2020 "Putting COI Metabarcoding in Context: The Utility of Exact Sequence Variants (ESVs) in Biodiversity Analysis". Frontiers in Ecology and Evolution, in press.
+This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Porter and Hajibabaei, 2020 "Putting COI Metabarcoding in Context: The Utility of Exact Sequence Variants (ESVs) in Biodiversity Analysis". Frontiers in Ecology and Evolution, In press.
 
-Infiles and scripts can be downloaded from https://github.com/terrimporter/PorterHajibabaei_DNAbarcodes/releases .
+Infiles and scripts can be downloaded from https://github.com/terrimporter/PorterHajibabaei2020_ESVs_vs_OTUs/releases/tag/v1.1.0 .
 
 ## Infiles
 
