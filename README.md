@@ -8,7 +8,7 @@ Infiles and scripts can be downloaded from https://github.com/terrimporter/Porte
 
 Taxonomically assigned data were obtained for ESVs (LV2016_2.tar.gz) and for OTUs (LV2016_4.tar.gz) from the publication Porter et al., 2019 SciRep at https://github.com/terrimporter/PorterEtAl2019grid . 
 
-A taxonomy matrix (taxonomy.matrix) from the publication Hajibabaei et al., 2019 PLoS ONE at https://github.com/Hajibabaei-Lab/HajibabaeiEtAl2019 .
+Taxonomically assigned data (taxonomy.matrix) were obtained from the publication Hajibabaei et al., 2019 PLoS ONE at https://github.com/Hajibabaei-Lab/HajibabaeiEtAl2019 .
 
 headers.txt parsed from:
 Taxonomic information from BOLD data releases (iBOL_phase2.0_COI.tsv to iBOL_phase_6.50_COI.tsv) was originally obtained from http://v3.boldsystems.org/index.php/datarelease and parsed to include only taxonomic information from sequences at least 500 bp in length and with no more than 3 ambiguous bases.
