@@ -1,6 +1,6 @@
 # README
 
-This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Porter and Hajibabaei, 2020 "Putting COI Metabarcoding in Context: The Utility of Exact Sequence Variants (ESVs) in Biodiversity Analysis". Frontiers in Ecology and Evolution, 8: 248.
+This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Porter and Hajibabaei, 2020 "Putting COI Metabarcoding in Context: The Utility of Exact Sequence Variants (ESVs) in Biodiversity Analysis". Frontiers in Ecology and Evolution, 8: 248 available from https://www.frontiersin.org/articles/10.3389/fevo.2020.00248/full .
 
 Infiles and scripts can be downloaded from https://github.com/terrimporter/PorterHajibabaei2020_ESVs_vs_OTUs/releases/tag/v1.1.0 .
 
